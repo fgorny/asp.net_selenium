@@ -1,0 +1,34 @@
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\LAB3 - sharing economy\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\STUDIA\SEMESTR 5\INŻYNIERIA OPROGRAMOWANIA\20.37_working_webservice_only\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
