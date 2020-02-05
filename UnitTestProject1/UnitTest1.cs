@@ -26,11 +26,9 @@ namespace SeleniumBingTests
         [TestCategory("Chrome")]
         public void TheBingSearchTest()
         {
-            driver.Navigate().GoToUrl(appURL + "/");
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
-            driver.FindElement(By.Id("sb_form_q")).SendKeys("Azure Pipelines");
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
-            driver.FindElement(By.Id("sb_form_go")).Click();
+            var element = driver.FindElement(By.Id("sb_form_go"));
+            IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
+            js.ExecuteScript("arguments[0].click();", element);
             //driver.FindElement(By.XPath("//ol[@id='b_results']/li/h2/a/strong[3]")).Click();
             //Assert.IsTrue(driver.Title.Contains("Azure Pipelines"), "Verified title of the page");
         }
